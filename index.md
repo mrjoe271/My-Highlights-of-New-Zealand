@@ -21,7 +21,7 @@
 <li>The Pohotu Geyser at Te Puia in Rotorua.</li>
 <li>Bungy jump off the Kawarau Bridge in Queenstown.
 </ul>
-<img src=https://c8.alamy.com/comp/E1FP6W/aj-hackett-bungy-jumping-on-the-kawarau-bridge-over-the-kawarau-river-E1FP6W.jpg alt="Person bungy jumping">
+<img src="https://c8.alamy.com/comp/E1FP6W/aj-hackett-bungy-jumping-on-the-kawarau-bridge-over-the-kawarau-river-E1FP6W.jpg" alt="Person bungy jumping">
 
 
 </body>
