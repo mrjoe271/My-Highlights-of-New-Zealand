@@ -7,9 +7,7 @@
 </head>
 <body>
 
-<p style="text-align: center; font-family: sans-serif; text-color: #7FDBFF;">
-My Highlights of New Zealand (in HTML)
-</p>
+
 
 <br>
 <br>
