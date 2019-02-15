@@ -2,9 +2,7 @@
 <html>
 <head>
 <meta-charset="utf-8">
-<title>
-My Highlights of New Zealand (in HTML)
-</title>
+
 
 
 </head>
