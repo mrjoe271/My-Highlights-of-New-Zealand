@@ -20,7 +20,7 @@
 <li>The Skyline Luge in Rotorua.</li>
 <li>The Pohotu Geyser at Te Puia in Rotorua.</li>
 <li>Bungy jump off the Kawara Bridge in Queenstown.</li>
-</ul>u
+</ul>
 <img src="https://c8.alamy.com/comp/E1FP6W/aj-hackett-bungy-jumping-on-the-kawarau-bridge-over-the-kawarau-river-E1FP6W.jpg" alt="Person bungy jumping">
 
 
